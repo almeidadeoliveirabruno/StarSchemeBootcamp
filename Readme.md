@@ -3,7 +3,7 @@ O desafio foi realizado durante o bootcamp de engenharia de dados da DIO.
 
 O objetivo deste desafio era transformar um banco de dados disponibilizado em um Star Schema. Veja abaixo o diagrama do banco de dados:
 
-![Banco de dados original](Imagens\PrintEsquemaOriginal.png)
+<img src="/Imagens\PrintEsquemaOriginal.png" alt="Banco de dados original">
 
 ## Instruções do desafio
 Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
@@ -23,4 +23,4 @@ Por fim, mas não menos importante, adicione uma tabela dimensão de datas. Para
 Ex: data de oferta das disciplinas, data de oferta dos cursos, entre outros. O formato, ou melhor, a granularidade, não está fixada. Podem ser utilizados diferentes formatos que correspondem a diferentes níveis de granularidade.
 
 # Star Schema
-![Star Schema](Imagens\PrintStarSchema.png)
+<img src="Imagens\PrintStarSchema.png" alt="StarSchema">
